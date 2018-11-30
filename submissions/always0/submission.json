@@ -1,0 +1,6 @@
+{
+  "name": "Always 0",
+  "author": "MayorMonty",
+  "command": "node",
+  "argv": "main.ts"
+}

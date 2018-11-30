@@ -1,0 +1,14 @@
+{
+  "name": "ohell",
+  "version": "0.0.0",
+  "description": "A controller for the king-of-the-hill challenge for O'hell",
+  "main": "main.ts",
+  "repository": "https://github.com/MayorMonty/OhHell",
+  "author": "Brendan McGuire",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^10.12.10"
+  },
+  "dependencies": {}
+}
